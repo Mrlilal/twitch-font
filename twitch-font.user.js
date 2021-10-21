@@ -4,8 +4,8 @@
 // @author       Mrlilal
 // @version      1.0.3
 
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/Mrlilal/twitch-font/raw/main/twitch-font.user.js
+// @downloadURL  https://github.com/Mrlilal/twitch-font/raw/main/twitch-font.user.js
 
 // @include      https://*.twitch.tv/*
 
